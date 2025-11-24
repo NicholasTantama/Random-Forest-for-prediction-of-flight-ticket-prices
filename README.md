@@ -1,2 +1,2 @@
 # Random-Forest-for-prediction-of-flight-ticket-prices
-Projek ini terdiri dari File Presentation dalam format pdf yang menjelaskan projek dan file .ipynb berisi kode
+This project consists of a presentation file in pdf format as well as the ipynb file containing code and results.
